@@ -4,6 +4,12 @@ body {
 	background-color: #cccccc;
 	font-family: Montserrat, Helvetica, Trebuchet MS, Tahoma, Arial, Serif;
 }
+@media (min-width: 100px) body {
+	text-align: center;
+	margin: 40px;
+	background-color: #cccccc;
+	font-family: Montserrat, Helvetica, Trebuchet MS, Tahoma, Arial, Serif;
+}
 header img {
 	max-width: 720px;
 }
