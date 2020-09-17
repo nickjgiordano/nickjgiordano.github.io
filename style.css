@@ -41,8 +41,7 @@ section img:hover {
 	font-size: 0.8em;
 	color: #4a9500;
 }
-@-moz-document url-prefix() {
-	{}
+@media all and (min--moz-device-pixel-ratio:0) and (max-width: 680px) {
 	.title {
 		font-size: 1.6em;
 	}
