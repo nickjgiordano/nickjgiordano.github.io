@@ -1,10 +1,8 @@
 body {
+	text-align: center;
 	margin: 40px;
 	background-color: #cccccc;
 	font-family: Montserrat, Helvetica, Trebuchet MS, Tahoma, Arial, Serif;
-}
-header {
-	text-align: center;
 }
 header img {
 	max-width: 720px;
