@@ -79,8 +79,7 @@ hr {
 	color: #0059b3;
 }
 .screenshot {
-	width: 80%;
-	max-width: 1200px;
+	max-width: 80%;
 	margin: 30px;
 	border-radius: 2px;
 	box-shadow: 0px 0px 7px 2px #999999;
