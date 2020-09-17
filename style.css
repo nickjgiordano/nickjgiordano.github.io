@@ -5,6 +5,7 @@ body {
 	font-family: Roboto, Montserrat, Lato, Helvetica, Trebuchet MS, Tahoma, Arial, Serif;
 }
 header img {
+	width: 100%;
 	max-width: 720px;
 }
 section {
