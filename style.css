@@ -82,7 +82,11 @@ hr {
 	border-color: #0059b3;
 }
 h3 {
-	margin-top: 50px;
+	margin-top: 40px;
+}
+.documentation {
+	max-width: 800px;
+	margin: auto;
 }
 .screenshot {
 	max-width: 80%;
