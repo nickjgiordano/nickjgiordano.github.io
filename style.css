@@ -2,7 +2,6 @@ body {
 	text-align: center;
 	margin: 40px;
 	background-color: #cccccc;
-	background-image: url("media/bg.png");
 	font-family: Roboto, Montserrat, Lato, Helvetica, Trebuchet MS, Tahoma, Arial, Serif;
 }
 a:link, a:visited {
