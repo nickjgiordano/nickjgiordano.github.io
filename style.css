@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Quicksand';
-    src: url('fonts/quicksand.woff2') format('woff2'),
-         url('fonts/quicksand.woff') format('woff');
+    src: url('https://nickjgiordano.github.io/fonts/quicksand.woff2') format('woff2'),
+         url('https://nickjgiordano.github.io/quicksand.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
