@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Pastika';
-    src: url('https://nickjgiordano.github.io/fonts/pastika.woff2') format('woff2'),
-         url('https://nickjgiordano.github.io/fonts/pastika.woff') format('woff');
+    font-family: 'Tommy';
+    src: url('https://nickjgiordano.github.io/fonts/tommy.woff2') format('woff2'),
+         url('https://nickjgiordano.github.io/fonts/tommy.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -9,7 +9,7 @@ body {
 	text-align: center;
 	margin: 40px;
 	background-color: #cccccc;
-	font-family: 'Pastika', Helvetica, Calibri, Arial, Serif;
+	font-family: 'Tommy', Helvetica, Calibri, Arial, Serif;
 }
 a:link, a:visited {
 	color: inherit;
