@@ -37,27 +37,23 @@ section {
 	display: grid;
 	grid-gap: 60px;
 }
-@media (min-width: 680px) { .grid {grid-template-columns: repeat( 2, minmax(200px, auto) );} }
-@media (min-width: 960px) { .grid {grid-template-columns: repeat( 3, minmax(200px, auto) );} }
-@media (min-width: 1250px) { .grid {grid-template-columns: repeat( 4, minmax(200px, auto) );} }
-@media (min-width: 1500px) { .grid {grid-template-columns: repeat( 5, minmax(200px, auto) );} }
+@media (min-width: 780px) { .grid {grid-template-columns: repeat( 2, minmax(250px, auto) );} }
+@media (min-width: 1120px) { .grid {grid-template-columns: repeat( 3, minmax(250px, auto) );} }
+@media (min-width: 1420px) { .grid {grid-template-columns: repeat( 4, minmax(250px, auto) );} }
 .grid img, .icon {
-	max-width: 200px;
+	max-width: 250px;
 	border: 10px solid white;
 	border-radius: 2px;
 	box-shadow: 0px 0px 3px 0px #999999;
-}
-.icon {
-	max-width: 280px;
 }
 .grid img:hover {
 	box-shadow: 0px 0px 10px 0px black;
 }
 .title {
-	font-size: 1.1em;
+	font-size: 1.2em;
 }
 .description {
-	font-size: 0.9em;
+	font-size: 1.0em;
 	color: #0059b3;
 }
 .category {
@@ -79,11 +75,14 @@ h1 {
 h5 {
 	margin-top: 15px;
 }
+.icon {
+	max-width: 280px;
+}
 h5 a:hover {
 	color: #0059b3;
 }
 hr {
-	max-width: 500px;
+	max-width: 600px;
 	margin-top: 40px;
 	border-color: #0059b3;
 }
